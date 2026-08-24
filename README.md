@@ -139,9 +139,6 @@ Random Forest was subsequently subjected to hyperparameter tuning to determine w
 | XGBoost | 12.06 | 17.36 | 0.85 |
 | Tuned Random Forest | 12.50 | 18.39 | 0.83 |
 
-### Model Performance Comparison
-
-![Model Performance Comparison](images/model_comparison.png)
 
 ### Final Model
 
