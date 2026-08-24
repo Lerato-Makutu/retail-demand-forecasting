@@ -229,7 +229,7 @@ For operational use:
 
 ---
 
-## Technologies Used
+## Tools & Technologies
 
 - Python
 - Pandas
